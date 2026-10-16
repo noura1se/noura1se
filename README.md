@@ -18,12 +18,12 @@
 
 ### 👩‍💻 About me
 
-- 🎓 Final-year Master's student in **Intelligent Systems Engineering** (Cloud, Networks & Security) at Université Hassan II – Casablanca
-- 🔐 Currently working on **protecting AI agents from prompt-injection attacks** (my M2 project)
-- 🤖 I build complete systems that combine **backend, LLMs, machine learning and IoT**
-- 🌱 Learning: Ethical Hacking (Cisco), agentic AI, cloud security
-- 🎯 Open to PFE internship opportunities (2027)
-- ⚡ Fun fact: I play chess and I'm learning Korean 🇰🇷
+- 🌸 Final-year Master's student in **Intelligent Systems Engineering** (Cloud, Networks & Security) at Université Hassan II – Casablanca
+- 🌸 Currently working on **protecting AI agents from prompt-injection attacks** (my M2 project)
+- 🌸 I build complete systems that combine **backend, LLMs, machine learning and IoT**
+- 🌸 Learning: Ethical Hacking (Cisco), agentic AI, cloud security
+- 🌸 Open to PFE internship opportunities (2027)
+- 🌸 Fun fact: I play chess and I'm learning Korean 🇰🇷
 
 ---
 
